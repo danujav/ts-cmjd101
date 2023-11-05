@@ -48,3 +48,11 @@ switch (color) {
         console.log('Invalid Color');
         break;
 }
+//any type
+let randomValue = 10;
+console.log(randomValue);
+randomValue = 'kamal';
+console.log(randomValue);
+randomValue = true;
+console.log(randomValue);
+3;

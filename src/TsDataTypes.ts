@@ -65,4 +65,4 @@ randomValue = 'kamal';
 console.log(randomValue);
 
 randomValue = true;
-console.log(randomValue);
+console.log(randomValue);3
